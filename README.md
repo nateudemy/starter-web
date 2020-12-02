@@ -17,3 +17,7 @@ This guy goes way too fast
 ## How To Contribute
 
 oNE MORE EDIT FOR THIS
+
+### Copyright
+
+2020 Git. Training
