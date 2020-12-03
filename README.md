@@ -16,8 +16,7 @@ This guy goes way too fast
 
 ## How To Contribute
 
-oNE MORE EDIT FOR THIS
-
+Please fork this repository and then issue Pull Requests for Review.
 ### Copyright
 
 2020 Git. Training
