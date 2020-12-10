@@ -8,7 +8,7 @@ Sample website with plenty of files for demos
 
 ## Purpose
 
-This is ridiculous
+wE ARE expanding the brand because its brolic
 
 ## Deployment
 
