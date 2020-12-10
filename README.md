@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-This repository is for showing how Git and GitHub work
+This repository is for showing how Git and GitHub work. tOO FAST
 
 ## Purpose
 
@@ -12,7 +12,7 @@ This is ridiculous
 
 ## Deployment
 
-This guy goes way too fast
+THE BRAND IS TOO STRONG
 
 ## How To Contribute
 
