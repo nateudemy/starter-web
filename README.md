@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-This repository is for showing how Git and GitHub work. tOO FAST
+This repository is for showing how Git and GitHub work. Updating for the brand
 
 ## Purpose
 
