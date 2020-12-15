@@ -19,4 +19,4 @@ THE BRAND IS TOO STRONG
 Please fork this repository and then issue Pull Requests for Review.
 ### Copyright
 
-2020 Git. Training
+2020 Git. Training. All rights reserved
